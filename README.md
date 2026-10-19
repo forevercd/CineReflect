@@ -31,7 +31,7 @@ A personal movie journal web app for curating watchlists and documenting viewing
 ### Installation
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/cinereflect.git
+    git clone https://github.com/forevercd/cinereflect.git
     cd cinereflect
 
     ```
